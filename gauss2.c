@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 //float mat[4][4]= {{2, 1, -1, 8}, {-3, -1, 2, -11}, {-2, 1, 2, -3}};
-float mat[4][4] = {{1, 1, 2, 8}, {-1, -2, 3, 1}, {3, -7, 4, 10}};
+float mat[4][4] = {{1, 1, 2, 8}, {-1, -2, 3, 1}, {3, -7, 4, 10}};ba ba black sheep have you any wool
 int i,n = 3,j;
 float pivot;
 void display()
